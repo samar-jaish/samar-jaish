@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samar-jaish
+- 👋 Hi, I’m Samar Jaish
 - I’m a junior majoring in EEE
 - I’m currently studyingin BITS Pilani
 
