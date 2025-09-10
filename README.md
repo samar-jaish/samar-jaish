@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Samar Jaish
-- I’m a junior majoring in EEE
-- I’m currently studyingin BITS Pilani
+- I’m a software developer
 
 
 <!---
